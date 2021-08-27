@@ -11,9 +11,9 @@ const Hero = (props) => (
         Hello I am Zachary Cooremans <br />
         Welcome to my Portfolio
       </SectionTitle>
-      <SectionTitle>
-        I dont know yet
-      </SectionTitle>
+      <SectionText>
+        I strive to meet the goals of my projects. I can build fully functioning single page applications. I can contribute by adding features, styles, and making new endpoints.
+      </SectionText>
       <Button onClick={() => window.location = 'https:google.com'}>Learn More</Button>
     </LeftSection>
   </Section>

@@ -2,10 +2,10 @@ export const projects = [
   {
     title: 'Water My Plants',
     description: "An app that allows you to create and edit your very own plants and set a day to water.",
-      image: '//images/2.png',
+      image: '/images/1.png',
       tags: ['React'],
-    source: 'https://github.com/water-my-plants-tt-43/water-my-plants',
-    visit: 'https://frontend-vercel-drab.vercel.app/',
+    source: 'https://github.com/ZacharyCooremans/water-my-plants',
+    visit: 'https://water-my-plants2.vercel.app/',
     id: 0,
   },
   {
