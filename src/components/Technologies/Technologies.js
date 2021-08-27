@@ -9,7 +9,7 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have learned how to make Full Stack applications using HTML, CSS, and Node.js
+      I have learned how to make Full Stack applications using HTML, CSS, Javascript and Node.js
     </SectionText>
     <List>
       <ListItem>
