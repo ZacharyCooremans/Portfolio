@@ -5,9 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 15, text: 'Personal Projects' },
-  { number: 720, text: 'Score on GCA', },
-  { number: 0, text: 'Graduated from Lambda', },
-  { number: 1, text: 'Real World Project', }
+  { number: 720, text: 'Score on GCA', }
 ];
 
 const Acomplishments = () => (
