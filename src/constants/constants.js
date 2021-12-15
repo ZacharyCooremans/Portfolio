@@ -26,15 +26,6 @@ export const projects = [
     visit: 'https://shopify-challenge-henna.vercel.app/',
     id: 2,
   },
-  {
-    title: 'Something',
-    description: "Something",
-    image: '/images/1.png',
-    tags: ['Something'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 3,
-  },
 ];
 
 export const TimeLineData = [
