@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         I strive to meet the goals of my projects. I can build fully functioning single page applications. I can contribute by adding features, styles, and making new endpoints.
       </SectionText>
-      <Button onClick={() => window.location = 'https:google.com'}>Learn More</Button>
+      <Button onClick={() => window.open = 'https://docs.google.com/document/d/14KddRFHUSh1fuLH37H0VYJxRrw2ktBt35meR5fa0CMg/edit?usp=sharing'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
