@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Something',
-    description: "Something",
-      image: '/images/1.png',
-      tags: ['Something'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Nasa API',
+    description: "Using the Nasa API to grab the picture of the day for a challenge for an internship.",
+      image: '/images/4.png',
+      tags: ['React'],
+    source: 'https://github.com/ZacharyCooremans/shopify-challenge',
+    visit: 'https://shopify-challenge-henna.vercel.app/',
     id: 2,
   },
   {
@@ -41,6 +41,6 @@ export const TimeLineData = [
   { year: 2017, text: 'Took my first programming class in high school', },
   { year: 2018, text: 'Started to learn Python', },
   { year: 2019, text: 'Took my first computer science class in college', },
-  { year: 2020, text: 'Started my journey with lambda', },
-  { year: 2021, text: 'Graduated from lambda', },
+  { year: 2021, text: 'Started my journey with Blooms Institution of Technology', },
+  { year: 2021, text: 'Graduated from Blooms Institution of Technology', },
 ];
