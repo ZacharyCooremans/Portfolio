@@ -12,7 +12,7 @@ const Hero = (props) => (
         Welcome to my Portfolio
       </SectionTitle>
       <SectionText>
-        I strive to meet the goals of my projects. I can build fully functioning single page applications. I can contribute by adding features, styles, and making new endpoints.
+        I strive to meet the goals of my projects. I can build fully functioning single page applications and add new features to existing ones.
       </SectionText>
       <Button onClick={() => window.open('https://docs.google.com/document/d/1eF0B_mCzs7kqV2le3vkUYgyu2xrPa_t7ZF40EAp_ZZg/edit?usp=sharing')}>Learn More</Button>
     </LeftSection>
