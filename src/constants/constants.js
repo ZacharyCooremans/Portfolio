@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://shopify-challenge-henna.vercel.app/',
     id: 2,
   },
+  {
+    title: 'Free to play',
+    description: "Using a open source API I made a list of all free to play games and a way to save your favorite.",
+      image: '/images/2.png',
+      tags: ['React'],
+    source: 'https://github.com/ZacharyCooremans/free2game',
+    visit: 'https://free2game.vercel.app/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
